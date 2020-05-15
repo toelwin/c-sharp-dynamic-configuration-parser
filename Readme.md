@@ -19,7 +19,7 @@ IsEnabled: false;
 * Each line in a configuration file, except for empty lines will have a semicolon at the end
 
 
-## Specification
+# Specification
 * Every key name found in a config file should be exposed as a property of an object retured from a parser.
 
 ```
